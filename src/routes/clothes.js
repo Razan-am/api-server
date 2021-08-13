@@ -7,7 +7,7 @@ const {clothesCollection} = require('../models/index');
 
 router.get('/status',(req,res)=>{
   res.send({
-    domain:'',
+    domain:'https://api-serverr.herokuapp.com/food',
     status:'running',
     port:3000,
   });
