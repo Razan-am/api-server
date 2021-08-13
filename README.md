@@ -5,7 +5,7 @@
 - https://api-serverr.herokuapp.com/food
 
 ### Author: Razan Alamleh
- - [tese report](https://github.com/Razan-am/api-server/runs/3325485036?check_suite_focus=true)
+ - [test report](https://github.com/Razan-am/api-server/runs/3325485036?check_suite_focus=true)
  - [front end](https://api-serverr.herokuapp.com/status)
 
 ### Setup
