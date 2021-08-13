@@ -2,11 +2,11 @@
 ## api-server
 
 ### Deployment Link
-- https://basic-express-ser.herokuapp.com/
+- https://api-serverr.herokuapp.com/food
 
 ### Author: Razan Alamleh
- - [tese report](https://github.com/Razan-am/basic-express-server/runs/3280579477?check_suite_focus=true)
- - [front end](https://basic-express-ser.herokuapp.com/status)
+ - [tese report](https://github.com/Razan-am/api-server/runs/3325485036?check_suite_focus=true)
+ - [front end](https://api-serverr.herokuapp.com/status)
 
 ### Setup
 - .env requirements
